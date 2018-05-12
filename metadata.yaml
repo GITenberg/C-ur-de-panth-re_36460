@@ -1,0 +1,40 @@
+_repo: C-ur-de-panth-re_36460
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Aimard, Gustave
+    alias: Gloux, Olivier
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '5146'
+    url: http://www.gutenberg.org/2009/agents/5146
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Gustave_Aimard
+    - http://en.wikipedia.org/wiki/Gustave_Aimard
+  - agent_name: Auriac, J. Berlioz d' (Jules Berlioz)
+    aliases:
+    - D'Auriac, Jules Berlioz
+    - D'Auriac, J. Berlioz (Jules Berlioz)
+    - Berlioz d'Auriac, J. (Jules)
+    birthdate: 1820
+    gutenberg_agent_id: '5147'
+    url: http://www.gutenberg.org/2009/agents/5147
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36460'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Western stories'
+- !lcsh 'Adventure and adventurers -- Fiction'
+title: Cœur de panthère
+url: http://www.gutenberg.org/ebooks/36460
